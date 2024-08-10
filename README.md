@@ -1,1 +1,1 @@
-![Alt text](Funny-Rat/funny-rat.png)
+![Alt text](./funny-rat.png)
